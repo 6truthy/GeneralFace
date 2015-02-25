@@ -1,7 +1,7 @@
 //
 //  AppDelegate.h
 //  FaceppPhotoPickerDemo
-//
+//  Chauncey
 //  Created by youmu on 12-12-5.
 //  Copyright (c) 2012年 Megvii. All rights reserved.
 //
